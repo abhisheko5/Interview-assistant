@@ -6,7 +6,7 @@ const Page = () => {
     <>
     
     <h3>Interview Page</h3>
-    <Agent username="You" userId="user1" type="generate"/>
+    <Agent userName="You" userId="user1" type="generate"/>
     
     </>
   )
